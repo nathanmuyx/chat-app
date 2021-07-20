@@ -86,7 +86,7 @@ class _SignInState extends State<SignIn> {
                           },
                           controller: emailEditingController,
                           style: simpleTextStyle(),
-                          decoration: textFieldInputDecoration("email"),
+                          decoration: textFieldInputDecoration("email sample"),
                         ),
                         TextFormField(
                           obscureText: true,
