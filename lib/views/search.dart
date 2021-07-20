@@ -153,7 +153,7 @@ class _SearchState extends State<Search> {
                       controller: searchEditingController,
                       style: simpleTextStyle(),
                       decoration: InputDecoration(
-                        hintText: "search username ...",
+                        hintText: "search name",
                         hintStyle: TextStyle(
                           color: Colors.white,
                           fontSize: 16,
